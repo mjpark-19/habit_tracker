@@ -1,5 +1,5 @@
 # Habit Tracker 
-react 활용법 공부를 위한 Habit Tracker 프로젝트 
+React 활용법 공부를 위한 Habit Tracker 프로젝트 
 
 ## 기능
 
