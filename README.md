@@ -15,6 +15,6 @@ React 활용법 공부를 위한 Habit Tracker 프로젝트
 - Node.js 14.17.6
 - Visual Studio Code 1.57.0
 
-## URL 
+## Website URL 
 
 https://mj-habit-tracker.netlify.app/
